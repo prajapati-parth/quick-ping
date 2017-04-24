@@ -19,7 +19,7 @@ export default class quickping extends Component {
 		return (
 			<View>
 				<StatusBar
-					backgroundColor={GlobStyles.primary_dark10}
+					backgroundColor={GlobStyles.primary_dark5}
 					barStyle="light-content"
 				/>
 				<AppHeader

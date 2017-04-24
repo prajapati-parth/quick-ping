@@ -8,7 +8,7 @@ const GlobStyles = {
     primary_dark10: '#EA1C0D',
     boundaryPadding: PixelRatio.getPixelSizeForLayoutSize(5),
     toolbarHeight: PixelRatio.getPixelSizeForLayoutSize(18),
-    titleFontSize: PixelRatio.getPixelSizeForLayoutSize(8),
+    titleFontSize: PixelRatio.getPixelSizeForLayoutSize(8)
 }
 
 export default GlobStyles

@@ -3,6 +3,7 @@ import {
 	Text,
 	View
 } from 'react-native'
+import CompStyles from './comp_styles'
 
 export default class Options extends Component {
     constructor(props){
@@ -11,7 +12,7 @@ export default class Options extends Component {
 
     render() {
         return (
-            <View>
+            <View style={CompStyles.optionCard}>
                 <Text>{this.props.name}</Text>
             </View>
         )
