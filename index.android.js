@@ -3,37 +3,34 @@ import {
 	AppRegistry,
 	StyleSheet,
 	Text,
-	View
+	View,
+	StatusBar
 } from 'react-native'
 import AppHeader from './app/components/AppHeader'
+import OptionsList from './app/components/OptionsList'
+
+import GlobStyles from './app/config/styles'
+import GlobStrings from './app/config/strings'
+
+import SelectOptions from './app/config/options'
 
 export default class quickping extends Component {
 	render() {
 		return (
 			<View>
-				<AppHeader></AppHeader>
+				<StatusBar
+					backgroundColor={GlobStyles.primary_dark10}
+					barStyle="light-content"
+				/>
+				<AppHeader
+					titleText={GlobStrings.appName_upperCamel}
+				></AppHeader>
+				<OptionsList
+					selectOptions={SelectOptions}
+				></OptionsList>
 			</View>
 		);
 	}
 }
-
-const styles = StyleSheet.create({
-	container: {
-		flex: 1,
-		justifyContent: 'center',
-		alignItems: 'center',
-		backgroundColor: '#F5FCFF',
-	},
-	welcome: {
-		fontSize: 20,
-		textAlign: 'center',
-		margin: 10,
-	},
-	instructions: {
-		textAlign: 'center',
-		color: '#333333',
-		marginBottom: 5,
-	},
-});
 
 AppRegistry.registerComponent('quickping', () => quickping);

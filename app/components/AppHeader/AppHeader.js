@@ -1,28 +1,20 @@
 import React, {Component} from 'react'
 import {
 	Text,
-	View,
-    StyleSheet,
-    ToolbarAndroid
+	View
 } from 'react-native'
-import GlobStyles from '../../config/styles'
-import GlobStrings from '../../config/strings'
+import CompStyles from './comp_styles'
 
 export default class AppHeader extends Component {
+    constructor(props) {
+        super(props)
+    }
+
     render() {
         return (
-            <View>
-                <ToolbarAndroid
-                    title="quickping"
-                    style={styles.headerStyle} />
+            <View style={CompStyles.headerContainer}>
+                <Text style={CompStyles.headerText}>{this.props.titleText}</Text>
             </View>
         )
     }
 }
-
-const styles = StyleSheet.create({
-    headerStyle: {
-        height: 50,
-        backgroundColor: '#F44336'
-    }
-})
