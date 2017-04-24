@@ -22,7 +22,9 @@ export default class OptionsList extends Component {
                 <ListView
                     dataSource={this.state.dataSource}
                     renderRow={
-                        (rowData) => <Text>{rowData.name}</Text>
+                        (rowData) => <Options
+                                        name={rowData.name}
+                                    />
                     }
                 />
             </View>
