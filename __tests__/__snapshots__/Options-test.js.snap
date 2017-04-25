@@ -5,6 +5,11 @@ exports[`renders correctly 1`] = `
   style={
     Object {
       "backgroundColor": "#FFFFFF",
+      "elevation": 5,
+      "paddingBottom": 20,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "paddingTop": 20,
     }
   }
 >

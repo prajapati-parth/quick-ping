@@ -8,7 +8,7 @@ const CompStyles = StyleSheet.create({
         padding: GlobStyles.boundaryPadding,
         justifyContent: 'center',
         alignItems: 'center',
-        elevation: 5
+        elevation: GlobStyles.elevationForShadow
     },
     headerText: {
         color: '#FFFFFF',

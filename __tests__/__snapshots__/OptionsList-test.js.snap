@@ -15,62 +15,206 @@ exports[`renders correctly 1`] = `
       <View
         style={
           Object {
-            "backgroundColor": "#FFFFFF",
+            "flex": 1,
+            "marginBottom": 5,
+            "paddingLeft": 10,
+            "paddingRight": 10,
           }
         }
       >
-        <Text
-          accessible={true}
-          allowFontScaling={true}
-          ellipsizeMode="tail"
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "elevation": 5,
+              "paddingBottom": 20,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 20,
+            }
+          }
         >
-          Empty water(302)
-        </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+          >
+            Empty water(302)
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "elevation": 5,
+              "paddingBottom": 20,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 20,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+          >
+            Empty water(202)
+          </Text>
+        </View>
       </View>
       <View
         style={
           Object {
-            "backgroundColor": "#FFFFFF",
+            "flex": 1,
+            "marginBottom": 5,
+            "paddingLeft": 10,
+            "paddingRight": 10,
           }
         }
       >
-        <Text
-          accessible={true}
-          allowFontScaling={true}
-          ellipsizeMode="tail"
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "elevation": 5,
+              "paddingBottom": 20,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 20,
+            }
+          }
         >
-          Empty water(202)
-        </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+          >
+            Empty coffee(302)
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "elevation": 5,
+              "paddingBottom": 20,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 20,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+          >
+            Empty tea(302)
+          </Text>
+        </View>
       </View>
       <View
         style={
           Object {
-            "backgroundColor": "#FFFFFF",
+            "flex": 1,
+            "marginBottom": 5,
+            "paddingLeft": 10,
+            "paddingRight": 10,
           }
         }
       >
-        <Text
-          accessible={true}
-          allowFontScaling={true}
-          ellipsizeMode="tail"
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "elevation": 5,
+              "paddingBottom": 20,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 20,
+            }
+          }
         >
-          Need cleaning(302)
-        </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+          >
+            Empty coffee(202)
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "elevation": 5,
+              "paddingBottom": 20,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 20,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+          >
+            Empty tea(202)
+          </Text>
+        </View>
       </View>
       <View
         style={
           Object {
-            "backgroundColor": "#FFFFFF",
+            "flex": 1,
+            "marginBottom": 5,
+            "paddingLeft": 10,
+            "paddingRight": 10,
           }
         }
       >
-        <Text
-          accessible={true}
-          allowFontScaling={true}
-          ellipsizeMode="tail"
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "elevation": 5,
+              "paddingBottom": 20,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 20,
+            }
+          }
         >
-          Need cleaning(202)
-        </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+          >
+            Need cleaning(302)
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "elevation": 5,
+              "paddingBottom": 20,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 20,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+          >
+            Need cleaning(202)
+          </Text>
+        </View>
       </View>
     </View>
   </RCTScrollView>
