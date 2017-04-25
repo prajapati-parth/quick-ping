@@ -12,7 +12,13 @@ exports[`renders correctly 1`] = `
     renderScrollComponent={[Function]}
   >
     <View>
-      <View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+          }
+        }
+      >
         <Text
           accessible={true}
           allowFontScaling={true}
@@ -21,7 +27,13 @@ exports[`renders correctly 1`] = `
           Empty water(302)
         </Text>
       </View>
-      <View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+          }
+        }
+      >
         <Text
           accessible={true}
           allowFontScaling={true}
@@ -30,7 +42,13 @@ exports[`renders correctly 1`] = `
           Empty water(202)
         </Text>
       </View>
-      <View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+          }
+        }
+      >
         <Text
           accessible={true}
           allowFontScaling={true}
@@ -39,7 +57,13 @@ exports[`renders correctly 1`] = `
           Need cleaning(302)
         </Text>
       </View>
-      <View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#FFFFFF",
+          }
+        }
+      >
         <Text
           accessible={true}
           allowFontScaling={true}
