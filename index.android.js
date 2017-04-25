@@ -13,6 +13,7 @@ import GlobStyles from './app/config/styles'
 import GlobStrings from './app/config/strings'
 
 import SelectOptions from './app/config/options'
+import IndexStyles from './index.styles'
 
 export default class quickping extends Component {
 	render() {
@@ -25,9 +26,11 @@ export default class quickping extends Component {
 				<AppHeader
 					titleText={GlobStrings.appName_upperCamel}
 				></AppHeader>
-				<OptionsList
-					selectOptions={SelectOptions}
-				></OptionsList>
+				<View style={IndexStyles.optionsListStyle}>
+					<OptionsList
+						selectOptions={SelectOptions}
+					></OptionsList>
+				</View>
 			</View>
 		);
 	}

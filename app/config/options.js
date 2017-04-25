@@ -16,12 +16,12 @@ const SelectOptions = [
     },
     {
         index: 4,
-        name: "Empty tea(302)",
+        name: "Empty coffee(202)",
         active: "true"
     },
     {
         index: 5,
-        name: "Empty coffee(202)",
+        name: "Empty tea(302)",
         active: "true"
     },
     {

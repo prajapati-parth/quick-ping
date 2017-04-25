@@ -45,12 +45,16 @@ export default class OptionsList extends Component {
     renderOptions(data) {
         return (
             <View style={CompStyles.optionContainer}>
-                <Options
-                    name={data[0].name}
-                />
-                <Options
-                    name={data[1].name}
-                />
+                <View style={CompStyles.optionStyle}>
+                    <Options
+                        name={data[0].name}
+                    />
+                </View>
+                <View style={CompStyles.optionStyle}>
+                    <Options
+                        name={data[1].name}
+                    />
+                </View>
             </View>
         )
     }

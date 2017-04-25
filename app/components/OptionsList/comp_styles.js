@@ -3,10 +3,11 @@ import GlobStyles from '../../config/styles'
 
 const CompStyles = StyleSheet.create({
     optionContainer: {
+        flexDirection: 'row'
+    },
+    optionStyle: {
         flex: 1,
-        paddingLeft: GlobStyles.boundaryPadding,
-        paddingRight: GlobStyles.boundaryPadding,
-        marginBottom: GlobStyles.boundaryPadding/2
+        margin: GlobStyles.boundaryPadding/2
     }
 })
 

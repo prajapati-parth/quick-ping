@@ -4,11 +4,13 @@ import GlobStyles from '../../config/styles'
 const CompStyles = StyleSheet.create({
     optionCard: {
         backgroundColor: '#FFFFFF',
+        flex: 1,
         elevation: GlobStyles.elevationForShadow,
-        paddingTop: GlobStyles.boundaryPadding*2,
-        paddingBottom: GlobStyles.boundaryPadding*2,
-        paddingLeft: GlobStyles.boundaryPadding*2,
-        paddingRight: GlobStyles.boundaryPadding*2
+        paddingTop: GlobStyles.boundaryPadding*1.5,
+        paddingBottom: GlobStyles.boundaryPadding*1.5,
+        paddingLeft: GlobStyles.boundaryPadding,
+        paddingRight: GlobStyles.boundaryPadding,
+        borderRadius: 3
     }
 })
 

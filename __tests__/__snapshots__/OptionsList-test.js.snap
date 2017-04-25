@@ -15,205 +15,409 @@ exports[`renders correctly 1`] = `
       <View
         style={
           Object {
-            "flex": 1,
-            "marginBottom": 5,
-            "paddingLeft": 10,
-            "paddingRight": 10,
+            "flexDirection": "row",
           }
         }
       >
         <View
           style={
             Object {
-              "backgroundColor": "#FFFFFF",
-              "elevation": 5,
-              "paddingBottom": 20,
-              "paddingLeft": 20,
-              "paddingRight": 20,
-              "paddingTop": 20,
+              "flex": 1,
+              "margin": 5,
             }
           }
         >
-          <Text
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
-            allowFontScaling={true}
-            ellipsizeMode="tail"
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 3,
+                "elevation": 5,
+                "flex": 1,
+                "opacity": 1,
+                "paddingBottom": 15,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 15,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
-            Empty water(302)
-          </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+            >
+              Empty water(302)
+            </Text>
+          </View>
         </View>
         <View
           style={
             Object {
-              "backgroundColor": "#FFFFFF",
-              "elevation": 5,
-              "paddingBottom": 20,
-              "paddingLeft": 20,
-              "paddingRight": 20,
-              "paddingTop": 20,
+              "flex": 1,
+              "margin": 5,
             }
           }
         >
-          <Text
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
-            allowFontScaling={true}
-            ellipsizeMode="tail"
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 3,
+                "elevation": 5,
+                "flex": 1,
+                "opacity": 1,
+                "paddingBottom": 15,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 15,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
-            Empty water(202)
-          </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+            >
+              Empty water(202)
+            </Text>
+          </View>
         </View>
       </View>
       <View
         style={
           Object {
-            "flex": 1,
-            "marginBottom": 5,
-            "paddingLeft": 10,
-            "paddingRight": 10,
+            "flexDirection": "row",
           }
         }
       >
         <View
           style={
             Object {
-              "backgroundColor": "#FFFFFF",
-              "elevation": 5,
-              "paddingBottom": 20,
-              "paddingLeft": 20,
-              "paddingRight": 20,
-              "paddingTop": 20,
+              "flex": 1,
+              "margin": 5,
             }
           }
         >
-          <Text
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
-            allowFontScaling={true}
-            ellipsizeMode="tail"
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 3,
+                "elevation": 5,
+                "flex": 1,
+                "opacity": 1,
+                "paddingBottom": 15,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 15,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
-            Empty coffee(302)
-          </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+            >
+              Empty coffee(302)
+            </Text>
+          </View>
         </View>
         <View
           style={
             Object {
-              "backgroundColor": "#FFFFFF",
-              "elevation": 5,
-              "paddingBottom": 20,
-              "paddingLeft": 20,
-              "paddingRight": 20,
-              "paddingTop": 20,
+              "flex": 1,
+              "margin": 5,
             }
           }
         >
-          <Text
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
-            allowFontScaling={true}
-            ellipsizeMode="tail"
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 3,
+                "elevation": 5,
+                "flex": 1,
+                "opacity": 1,
+                "paddingBottom": 15,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 15,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
-            Empty tea(302)
-          </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+            >
+              Empty coffee(202)
+            </Text>
+          </View>
         </View>
       </View>
       <View
         style={
           Object {
-            "flex": 1,
-            "marginBottom": 5,
-            "paddingLeft": 10,
-            "paddingRight": 10,
+            "flexDirection": "row",
           }
         }
       >
         <View
           style={
             Object {
-              "backgroundColor": "#FFFFFF",
-              "elevation": 5,
-              "paddingBottom": 20,
-              "paddingLeft": 20,
-              "paddingRight": 20,
-              "paddingTop": 20,
+              "flex": 1,
+              "margin": 5,
             }
           }
         >
-          <Text
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
-            allowFontScaling={true}
-            ellipsizeMode="tail"
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 3,
+                "elevation": 5,
+                "flex": 1,
+                "opacity": 1,
+                "paddingBottom": 15,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 15,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
-            Empty coffee(202)
-          </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+            >
+              Empty tea(302)
+            </Text>
+          </View>
         </View>
         <View
           style={
             Object {
-              "backgroundColor": "#FFFFFF",
-              "elevation": 5,
-              "paddingBottom": 20,
-              "paddingLeft": 20,
-              "paddingRight": 20,
-              "paddingTop": 20,
+              "flex": 1,
+              "margin": 5,
             }
           }
         >
-          <Text
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
-            allowFontScaling={true}
-            ellipsizeMode="tail"
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 3,
+                "elevation": 5,
+                "flex": 1,
+                "opacity": 1,
+                "paddingBottom": 15,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 15,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
-            Empty tea(202)
-          </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+            >
+              Empty tea(202)
+            </Text>
+          </View>
         </View>
       </View>
       <View
         style={
           Object {
-            "flex": 1,
-            "marginBottom": 5,
-            "paddingLeft": 10,
-            "paddingRight": 10,
+            "flexDirection": "row",
           }
         }
       >
         <View
           style={
             Object {
-              "backgroundColor": "#FFFFFF",
-              "elevation": 5,
-              "paddingBottom": 20,
-              "paddingLeft": 20,
-              "paddingRight": 20,
-              "paddingTop": 20,
+              "flex": 1,
+              "margin": 5,
             }
           }
         >
-          <Text
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
-            allowFontScaling={true}
-            ellipsizeMode="tail"
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 3,
+                "elevation": 5,
+                "flex": 1,
+                "opacity": 1,
+                "paddingBottom": 15,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 15,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
-            Need cleaning(302)
-          </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+            >
+              Need cleaning(302)
+            </Text>
+          </View>
         </View>
         <View
           style={
             Object {
-              "backgroundColor": "#FFFFFF",
-              "elevation": 5,
-              "paddingBottom": 20,
-              "paddingLeft": 20,
-              "paddingRight": 20,
-              "paddingTop": 20,
+              "flex": 1,
+              "margin": 5,
             }
           }
         >
-          <Text
+          <View
+            accessibilityComponentType={undefined}
+            accessibilityLabel={undefined}
+            accessibilityTraits={undefined}
             accessible={true}
-            allowFontScaling={true}
-            ellipsizeMode="tail"
+            hitSlop={undefined}
+            isTVSelectable={true}
+            onLayout={undefined}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": 3,
+                "elevation": 5,
+                "flex": 1,
+                "opacity": 1,
+                "paddingBottom": 15,
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 15,
+              }
+            }
+            testID={undefined}
+            tvParallaxProperties={undefined}
           >
-            Need cleaning(202)
-          </Text>
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+            >
+              Need cleaning(202)
+            </Text>
+          </View>
         </View>
       </View>
     </View>
